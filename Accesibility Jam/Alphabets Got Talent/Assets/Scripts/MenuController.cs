@@ -10,14 +10,19 @@ public class MenuController : MonoBehaviour {
 
 	void Update(){
 
-		if(Input.GetKeyDown(KeyCode.E)){
+		if(Input.GetKey(KeyCode.E)){
 
 			SceneManager.LoadScene ("Tutorial");
 
 		}
-		if(Input.GetKeyDown(KeyCode.T)){
+		if(Input.GetKey(KeyCode.T)){
 
 			SceneManager.LoadScene("Main");
+		}
+		if(Input.GetKey(KeyCode.E) && Input.GetKey(KeyCode.T)){
+
+			SceneManager.LoadScene("Start");
+			Debug.Log ("e and T");
 		}
 	}
 }
