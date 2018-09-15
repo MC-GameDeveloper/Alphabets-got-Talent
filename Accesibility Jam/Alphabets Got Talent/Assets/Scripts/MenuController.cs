@@ -1,28 +1,43 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.UI;
+
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
 
 
 public class MenuController : MonoBehaviour {
+	int scene;
+
+	void Start(){
+	
+
+
+	}
 
 	void Update(){
 
-		if(Input.GetKey(KeyCode.E)){
+		scene = SceneManager.GetActiveScene().buildIndex;
 
-			SceneManager.LoadScene ("Tutorial");
+		if (scene == 0) {
+		
+			if (Input.GetKey (KeyCode.E)) {
 
-		}
-		if(Input.GetKey(KeyCode.T)){
+				SceneManager.LoadScene ("Tutorial");
 
-			SceneManager.LoadScene("Main");
-		}
-		if(Input.GetKey(KeyCode.E) && Input.GetKey(KeyCode.T)){
+			}
+			if (Input.GetKey (KeyCode.T)) {
 
-			SceneManager.LoadScene("Start");
-			Debug.Log ("e and T");
+				SceneManager.LoadScene ("Main");
+			}
+
+		} else if (scene != 0) {
+
+			if (Input.GetKey (KeyCode.E) && Input.GetKey (KeyCode.T)) {
+
+				SceneManager.LoadScene ("Start");
+				Debug.Log ("e and T");
+			}
 		}
 	}
 }
