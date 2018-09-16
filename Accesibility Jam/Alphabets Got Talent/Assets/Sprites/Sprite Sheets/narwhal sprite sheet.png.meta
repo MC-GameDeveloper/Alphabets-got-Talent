@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: ac87dca2d9cfd5a479967e59aead7b0c
+timeCreated: 1537110667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: narwhal sprite sheet_0
+    21300002: narwhal sprite sheet_1
+    21300004: narwhal sprite sheet_2
+    21300006: narwhal sprite sheet_3
+    21300008: narwhal sprite sheet_4
+    21300010: narwhal sprite sheet_5
+    21300012: narwhal sprite sheet_6
+    21300014: narwhal sprite sheet_7
+    21300016: narwhal sprite sheet_8
+    21300018: narwhal sprite sheet_9
+    21300020: narwhal sprite sheet_10
+    21300022: narwhal sprite sheet_11
+    21300024: narwhal sprite sheet_12
+    21300026: narwhal sprite sheet_13
+    21300028: narwhal sprite sheet_14
+    21300030: narwhal sprite sheet_15
+    21300032: narwhal sprite sheet_16
+    21300034: narwhal sprite sheet_17
+    21300036: narwhal sprite sheet_18
+    21300038: narwhal sprite sheet_19
+    21300040: narwhal sprite sheet_20
+    21300042: narwhal sprite sheet_21
+    21300044: narwhal sprite sheet_22
+    21300046: narwhal sprite sheet_23
+    21300048: narwhal sprite sheet_24
+    21300050: narwhal sprite sheet_25
+    21300052: narwhal sprite sheet_26
+    21300054: narwhal sprite sheet_27
+    21300056: narwhal sprite sheet_28
+    21300058: narwhal sprite sheet_29
+    21300060: narwhal sprite sheet_30
+    21300062: narwhal sprite sheet_31
+    21300064: narwhal sprite sheet_32
+    21300066: narwhal sprite sheet_33
+    21300068: narwhal sprite sheet_34
+    21300070: narwhal sprite sheet_35
+    21300072: narwhal sprite sheet_36
+    21300074: narwhal sprite sheet_37
+    21300076: narwhal sprite sheet_38
+    21300078: narwhal sprite sheet_39
+    21300080: narwhal sprite sheet_40
+    21300082: narwhal sprite sheet_41
+    21300084: narwhal sprite sheet_42
+    21300086: narwhal sprite sheet_43
+    21300088: narwhal sprite sheet_44
+    21300090: narwhal sprite sheet_45
+    21300092: narwhal sprite sheet_46
+    21300094: narwhal sprite sheet_47
+    21300096: narwhal sprite sheet_48
+    21300098: narwhal sprite sheet_49
+    21300100: narwhal sprite sheet_50
+    21300102: narwhal sprite sheet_51
+    21300104: narwhal sprite sheet_52
+    21300106: narwhal sprite sheet_53
+    21300108: narwhal sprite sheet_54
+    21300110: narwhal sprite sheet_55
+    21300112: narwhal sprite sheet_56
+    21300114: narwhal sprite sheet_57
+    21300116: narwhal sprite sheet_58
+    21300118: narwhal sprite sheet_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: narwhal sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10206
+        width: 864
+        height: 1479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 10191
+        width: 921
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 10205
+        width: 952
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 10249
+        width: 1040
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6262
+        y: 10323
+        width: 1109
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 7654
+        y: 10440
+        width: 1272
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9054
+        y: 10528
+        width: 1397
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 10481
+        y: 10586
+        width: 1465
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11976
+        y: 10557
+        width: 1435
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 13484
+        y: 10528
+        width: 1375
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8476
+        width: 1311
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 8418
+        width: 1245
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 8353
+        width: 1113
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 8315
+        width: 966
+        height: 1333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 8301
+        width: 848
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7815
+        y: 8315
+        width: 878
+        height: 1479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9294
+        y: 8359
+        width: 908
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 10759
+        y: 8432
+        width: 952
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 12195
+        y: 8450
+        width: 1039
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 13631
+        y: 8491
+        width: 1113
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6528
+        width: 1266
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 6557
+        width: 1404
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 6572
+        width: 1465
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 6557
+        width: 1421
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 6145
+        y: 6542
+        width: 1377
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 7691
+        y: 6528
+        width: 1325
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 9221
+        y: 6513
+        width: 1245
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 10759
+        y: 6469
+        width: 1113
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 12291
+        y: 6352
+        width: 973
+        height: 1333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 13821
+        y: 6264
+        width: 849
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 4213
+        width: 864
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 4227
+        width: 878
+        height: 1436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 4235
+        width: 864
+        height: 1413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 4243
+        width: 864
+        height: 1391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 4258
+        width: 878
+        height: 1361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 7815
+        y: 4272
+        width: 864
+        height: 1332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 9309
+        y: 4290
+        width: 864
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 10811
+        y: 4309
+        width: 871
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 12312
+        y: 4330
+        width: 864
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 13807
+        y: 4344
+        width: 874
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2352
+        width: 864
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2367
+        width: 894
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 2381
+        width: 919
+        height: 1157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 2396
+        width: 950
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 2410
+        width: 980
+        height: 1139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 7815
+        y: 2411
+        width: 996
+        height: 1141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 9309
+        y: 2410
+        width: 973
+        height: 1139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 10806
+        y: 2396
+        width: 949
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 12312
+        y: 2381
+        width: 923
+        height: 1157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 13807
+        y: 2367
+        width: 906
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 359
+        width: 864
+        height: 1185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 344
+        width: 864
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 330
+        width: 871
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 315
+        width: 864
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 288
+        width: 877
+        height: 1302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7815
+        y: 272
+        width: 864
+        height: 1332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 9309
+        y: 258
+        width: 876
+        height: 1361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 10818
+        y: 243
+        width: 864
+        height: 1391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 12312
+        y: 230
+        width: 864
+        height: 1418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: narwhal sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 13807
+        y: 227
+        width: 878
+        height: 1436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

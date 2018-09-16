@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 9f7c8e136a8cf334798369cf20b92cfc
+timeCreated: 1537110522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sheep sprite sheet_0
+    21300002: sheep sprite sheet_1
+    21300004: sheep sprite sheet_2
+    21300006: sheep sprite sheet_3
+    21300008: sheep sprite sheet_4
+    21300010: sheep sprite sheet_5
+    21300012: sheep sprite sheet_6
+    21300014: sheep sprite sheet_7
+    21300016: sheep sprite sheet_8
+    21300018: sheep sprite sheet_9
+    21300020: sheep sprite sheet_10
+    21300022: sheep sprite sheet_11
+    21300024: sheep sprite sheet_12
+    21300026: sheep sprite sheet_13
+    21300028: sheep sprite sheet_14
+    21300030: sheep sprite sheet_15
+    21300032: sheep sprite sheet_16
+    21300034: sheep sprite sheet_17
+    21300036: sheep sprite sheet_18
+    21300038: sheep sprite sheet_19
+    21300040: sheep sprite sheet_20
+    21300042: sheep sprite sheet_21
+    21300044: sheep sprite sheet_22
+    21300046: sheep sprite sheet_23
+    21300048: sheep sprite sheet_24
+    21300050: sheep sprite sheet_25
+    21300052: sheep sprite sheet_26
+    21300054: sheep sprite sheet_27
+    21300056: sheep sprite sheet_28
+    21300058: sheep sprite sheet_29
+    21300060: sheep sprite sheet_30
+    21300062: sheep sprite sheet_31
+    21300064: sheep sprite sheet_32
+    21300066: sheep sprite sheet_33
+    21300068: sheep sprite sheet_34
+    21300070: sheep sprite sheet_35
+    21300072: sheep sprite sheet_36
+    21300074: sheep sprite sheet_37
+    21300076: sheep sprite sheet_38
+    21300078: sheep sprite sheet_39
+    21300080: sheep sprite sheet_40
+    21300082: sheep sprite sheet_41
+    21300084: sheep sprite sheet_42
+    21300086: sheep sprite sheet_43
+    21300088: sheep sprite sheet_44
+    21300090: sheep sprite sheet_45
+    21300092: sheep sprite sheet_46
+    21300094: sheep sprite sheet_47
+    21300096: sheep sprite sheet_48
+    21300098: sheep sprite sheet_49
+    21300100: sheep sprite sheet_50
+    21300102: sheep sprite sheet_51
+    21300104: sheep sprite sheet_52
+    21300106: sheep sprite sheet_53
+    21300108: sheep sprite sheet_54
+    21300110: sheep sprite sheet_55
+    21300112: sheep sprite sheet_56
+    21300114: sheep sprite sheet_57
+    21300116: sheep sprite sheet_58
+    21300118: sheep sprite sheet_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheep sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10228
+        width: 1230
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 10235
+        width: 1226
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 10235
+        width: 1215
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 10235
+        width: 1215
+        height: 1521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 10235
+        width: 1201
+        height: 1520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 10235
+        width: 1215
+        height: 1515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 10235
+        width: 1214
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 10235
+        width: 1215
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 12122
+        y: 10235
+        width: 1215
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 13630
+        y: 10235
+        width: 1216
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 8227
+        width: 1229
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 8227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 8227
+        width: 1230
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 8227
+        width: 1226
+        height: 1534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 8227
+        width: 1230
+        height: 1538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9119
+        y: 8227
+        width: 1230
+        height: 1534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 8227
+        width: 1226
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 12122
+        y: 8227
+        width: 1230
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 13630
+        y: 8227
+        width: 1216
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6235
+        width: 1215
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 6235
+        width: 1228
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 6235
+        width: 1215
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 6235
+        width: 1215
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 6235
+        width: 1202
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 6235
+        width: 1215
+        height: 1515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 6235
+        width: 1214
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 6235
+        width: 1215
+        height: 1521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 12122
+        y: 6235
+        width: 1215
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 13630
+        y: 6235
+        width: 1216
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4227
+        width: 1230
+        height: 1538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 4227
+        width: 1228
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 4227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 4227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 4227
+        width: 1201
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 4227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 4227
+        width: 1214
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 4227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 12122
+        y: 4227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 13630
+        y: 4227
+        width: 1216
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2235
+        width: 1215
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2235
+        width: 1229
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2235
+        width: 1215
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 2235
+        width: 1230
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 2235
+        width: 1226
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 2235
+        width: 1230
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 9119
+        y: 2235
+        width: 1230
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 2235
+        width: 1227
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 12122
+        y: 2235
+        width: 1230
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 13630
+        y: 2235
+        width: 1216
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 227
+        width: 1228
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 227
+        width: 1202
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 9121
+        y: 227
+        width: 1213
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 12122
+        y: 227
+        width: 1215
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 13630
+        y: 227
+        width: 1216
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

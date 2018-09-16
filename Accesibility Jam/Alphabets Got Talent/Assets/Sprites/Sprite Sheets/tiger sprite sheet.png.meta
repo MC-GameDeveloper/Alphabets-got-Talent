@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 9b7a0121714447845b75cb3c9236716f
+timeCreated: 1537110439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tiger sprite sheet_0
+    21300002: tiger sprite sheet_1
+    21300004: tiger sprite sheet_2
+    21300006: tiger sprite sheet_3
+    21300008: tiger sprite sheet_4
+    21300010: tiger sprite sheet_5
+    21300012: tiger sprite sheet_6
+    21300014: tiger sprite sheet_7
+    21300016: tiger sprite sheet_8
+    21300018: tiger sprite sheet_9
+    21300020: tiger sprite sheet_10
+    21300022: tiger sprite sheet_11
+    21300024: tiger sprite sheet_12
+    21300026: tiger sprite sheet_13
+    21300028: tiger sprite sheet_14
+    21300030: tiger sprite sheet_15
+    21300032: tiger sprite sheet_16
+    21300034: tiger sprite sheet_17
+    21300036: tiger sprite sheet_18
+    21300038: tiger sprite sheet_19
+    21300040: tiger sprite sheet_20
+    21300042: tiger sprite sheet_21
+    21300044: tiger sprite sheet_22
+    21300046: tiger sprite sheet_23
+    21300048: tiger sprite sheet_24
+    21300050: tiger sprite sheet_25
+    21300052: tiger sprite sheet_26
+    21300054: tiger sprite sheet_27
+    21300056: tiger sprite sheet_28
+    21300058: tiger sprite sheet_29
+    21300060: tiger sprite sheet_30
+    21300062: tiger sprite sheet_31
+    21300064: tiger sprite sheet_32
+    21300066: tiger sprite sheet_33
+    21300068: tiger sprite sheet_34
+    21300070: tiger sprite sheet_35
+    21300072: tiger sprite sheet_36
+    21300074: tiger sprite sheet_37
+    21300076: tiger sprite sheet_38
+    21300078: tiger sprite sheet_39
+    21300080: tiger sprite sheet_40
+    21300082: tiger sprite sheet_41
+    21300084: tiger sprite sheet_42
+    21300086: tiger sprite sheet_43
+    21300088: tiger sprite sheet_44
+    21300090: tiger sprite sheet_45
+    21300092: tiger sprite sheet_46
+    21300094: tiger sprite sheet_47
+    21300096: tiger sprite sheet_48
+    21300098: tiger sprite sheet_49
+    21300100: tiger sprite sheet_50
+    21300102: tiger sprite sheet_51
+    21300104: tiger sprite sheet_52
+    21300106: tiger sprite sheet_53
+    21300108: tiger sprite sheet_54
+    21300110: tiger sprite sheet_55
+    21300112: tiger sprite sheet_56
+    21300114: tiger sprite sheet_57
+    21300116: tiger sprite sheet_58
+    21300118: tiger sprite sheet_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiger sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3616
+        width: 525
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 3618
+        width: 524
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 3627
+        width: 524
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 3627
+        width: 525
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 3627
+        width: 525
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 3627
+        width: 525
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 7994
+        y: 3627
+        width: 524
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9269
+        y: 3627
+        width: 525
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 3627
+        width: 536
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 11831
+        y: 3627
+        width: 538
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2915
+        width: 560
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2915
+        width: 562
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 2915
+        width: 575
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 2915
+        width: 584
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 2915
+        width: 588
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 6707
+        y: 2915
+        width: 611
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7994
+        y: 2915
+        width: 587
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 9269
+        y: 2915
+        width: 587
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 10547
+        y: 2915
+        width: 572
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 11831
+        y: 2915
+        width: 563
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2191
+        width: 560
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2191
+        width: 537
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 2191
+        width: 536
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 2191
+        width: 534
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 2191
+        width: 525
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 2191
+        width: 525
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 7982
+        y: 2180
+        width: 533
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 9269
+        y: 2179
+        width: 525
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 10544
+        y: 2179
+        width: 525
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 11820
+        y: 2179
+        width: 533
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1456
+        width: 525
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1458
+        width: 524
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 1467
+        width: 524
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1467
+        width: 525
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 1467
+        width: 525
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 1467
+        width: 525
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 7994
+        y: 1467
+        width: 524
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 9269
+        y: 1467
+        width: 525
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 1467
+        width: 536
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 11831
+        y: 1467
+        width: 538
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 755
+        width: 560
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 755
+        width: 562
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 755
+        width: 575
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 755
+        width: 584
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 755
+        width: 588
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 6707
+        y: 755
+        width: 611
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 7994
+        y: 755
+        width: 587
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 9269
+        y: 755
+        width: 587
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 10547
+        y: 755
+        width: 572
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 11831
+        y: 755
+        width: 563
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 31
+        width: 560
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 31
+        width: 537
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 31
+        width: 536
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 31
+        width: 534
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 31
+        width: 525
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 31
+        width: 525
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7982
+        y: 20
+        width: 533
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 9269
+        y: 19
+        width: 525
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 10544
+        y: 19
+        width: 525
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tiger sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 11820
+        y: 19
+        width: 533
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

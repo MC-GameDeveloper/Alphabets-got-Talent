@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 3e1fd5cfb481c814f81695301c412cff
+timeCreated: 1537110100
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alligator spritesheet_0
+    21300002: alligator spritesheet_1
+    21300004: alligator spritesheet_2
+    21300006: alligator spritesheet_3
+    21300008: alligator spritesheet_4
+    21300010: alligator spritesheet_5
+    21300012: alligator spritesheet_6
+    21300014: alligator spritesheet_7
+    21300016: alligator spritesheet_8
+    21300018: alligator spritesheet_9
+    21300020: alligator spritesheet_10
+    21300022: alligator spritesheet_11
+    21300024: alligator spritesheet_12
+    21300026: alligator spritesheet_13
+    21300028: alligator spritesheet_14
+    21300030: alligator spritesheet_15
+    21300032: alligator spritesheet_16
+    21300034: alligator spritesheet_17
+    21300036: alligator spritesheet_18
+    21300038: alligator spritesheet_19
+    21300040: alligator spritesheet_20
+    21300042: alligator spritesheet_21
+    21300044: alligator spritesheet_22
+    21300046: alligator spritesheet_23
+    21300048: alligator spritesheet_24
+    21300050: alligator spritesheet_25
+    21300052: alligator spritesheet_26
+    21300054: alligator spritesheet_27
+    21300056: alligator spritesheet_28
+    21300058: alligator spritesheet_29
+    21300060: alligator spritesheet_30
+    21300062: alligator spritesheet_31
+    21300064: alligator spritesheet_32
+    21300066: alligator spritesheet_33
+    21300068: alligator spritesheet_34
+    21300070: alligator spritesheet_35
+    21300072: alligator spritesheet_36
+    21300074: alligator spritesheet_37
+    21300076: alligator spritesheet_38
+    21300078: alligator spritesheet_39
+    21300080: alligator spritesheet_40
+    21300082: alligator spritesheet_41
+    21300084: alligator spritesheet_42
+    21300086: alligator spritesheet_43
+    21300088: alligator spritesheet_44
+    21300090: alligator spritesheet_45
+    21300092: alligator spritesheet_46
+    21300094: alligator spritesheet_47
+    21300096: alligator spritesheet_48
+    21300098: alligator spritesheet_49
+    21300100: alligator spritesheet_50
+    21300102: alligator spritesheet_51
+    21300104: alligator spritesheet_52
+    21300106: alligator spritesheet_53
+    21300108: alligator spritesheet_54
+    21300110: alligator spritesheet_55
+    21300112: alligator spritesheet_56
+    21300114: alligator spritesheet_57
+    21300116: alligator spritesheet_58
+    21300118: alligator spritesheet_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alligator spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 10272
+        width: 1260
+        height: 1471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 10272
+        width: 1273
+        height: 1457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 10272
+        width: 1260
+        height: 1457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 10272
+        width: 1274
+        height: 1457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 10272
+        width: 1273
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 7567
+        y: 10268
+        width: 1273
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 9075
+        y: 10272
+        width: 1274
+        height: 1454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 10569
+        y: 10268
+        width: 1286
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 12078
+        y: 10268
+        width: 1274
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 13572
+        y: 10268
+        width: 1289
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8271
+        width: 1274
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 8271
+        width: 1289
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 8271
+        width: 1288
+        height: 1449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 8271
+        width: 1289
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 8271
+        width: 1288
+        height: 1436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 7581
+        y: 8271
+        width: 1303
+        height: 1436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 9069
+        y: 8291
+        width: 1289
+        height: 1436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 10584
+        y: 8271
+        width: 1288
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 12078
+        y: 8271
+        width: 1289
+        height: 1449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 13574
+        y: 8271
+        width: 1287
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6268
+        width: 1274
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 6268
+        width: 1288
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 6272
+        width: 1288
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 6272
+        width: 1274
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 6268
+        width: 1274
+        height: 1458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 7567
+        y: 6268
+        width: 1273
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 9064
+        y: 6272
+        width: 1270
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 10569
+        y: 6272
+        width: 1273
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 12063
+        y: 6272
+        width: 1274
+        height: 1457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 13560
+        y: 6272
+        width: 1271
+        height: 1457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4271
+        width: 1260
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 4271
+        width: 1273
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 4271
+        width: 1260
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 4271
+        width: 1273
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 4271
+        width: 1273
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 7566
+        y: 4271
+        width: 1274
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 9075
+        y: 4271
+        width: 1274
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 10569
+        y: 4271
+        width: 1287
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 12078
+        y: 4271
+        width: 1274
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 13572
+        y: 4271
+        width: 1289
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2268
+        width: 1274
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2272
+        width: 1289
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2268
+        width: 1288
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 2268
+        width: 1289
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 2272
+        width: 1288
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 7581
+        y: 2268
+        width: 1302
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 9089
+        y: 2268
+        width: 1289
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 10584
+        y: 2268
+        width: 1288
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 12078
+        y: 2272
+        width: 1289
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 13574
+        y: 2268
+        width: 1287
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 271
+        width: 1274
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 271
+        width: 1288
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 271
+        width: 1288
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 271
+        width: 1274
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 271
+        width: 1274
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7566
+        y: 271
+        width: 1274
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 9068
+        y: 271
+        width: 1266
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 10569
+        y: 271
+        width: 1272
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 12063
+        y: 271
+        width: 1274
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alligator spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 13561
+        y: 271
+        width: 1270
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

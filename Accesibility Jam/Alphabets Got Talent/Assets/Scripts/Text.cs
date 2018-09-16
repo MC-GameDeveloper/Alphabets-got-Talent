@@ -58,7 +58,7 @@ public class Text : MonoBehaviour {
 
 		} else if (scene != 0) {
 
-			if ((text.text== "e") && (text.text== "t")) {
+			if ((text.text== "c")) {
 
 				SceneManager.LoadScene ("Start");
 				text.text = "";
@@ -67,6 +67,7 @@ public class Text : MonoBehaviour {
 			}
 			SpawnPrefab ();
 		}
+		text.text = "";
 	}
 
 	void SpawnPrefab(){
