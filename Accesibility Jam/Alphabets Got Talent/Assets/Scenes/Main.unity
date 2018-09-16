@@ -632,7 +632,7 @@ MonoBehaviour:
     type: 2}
   sheepPrefabRef: {fileID: 1305857417039872, guid: ab2b95d4008494644a68a823c48d3830,
     type: 2}
-  alligatorPrefabRef: {fileID: 1367167787927086, guid: e3365cf11b21d7d4fa8502126cfcb549,
+  alligatorPrefabRef: {fileID: 1636421486127866, guid: e3365cf11b21d7d4fa8502126cfcb549,
     type: 2}
   iguanaPrefabRef: {fileID: 1634411920844238, guid: 4e85d7f7309d43f4d8a66a7450a59feb,
     type: 2}
